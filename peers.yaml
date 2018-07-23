@@ -474,11 +474,6 @@ AS2484:
     import: AS-AFNIC
     export: "AS8283:AS-COLOCLUE"
 
-AS3303:
-    description: Swisscom
-    import: AS-SWCMGLOBAL
-    export: "AS8283:AS-COLOCLUE"
-
 AS16276:
     description: OVH
     import: AS-OVH
